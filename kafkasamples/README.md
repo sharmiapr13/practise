@@ -46,5 +46,5 @@ Kafka Basics:
 
 12. Consume message with Key
 
-        ./kafka-consolconsumer.sh --bootstrap-server localhost:9092, localhost:9093 --topic testtopic --property print.key=true --property key.separator=, --from-beginning 
+        ./kafka-console-consumer.sh --bootstrap-server localhost:9092, localhost:9093 --topic testtopic --property print.key=true --property key.separator=, --from-beginning 
 
