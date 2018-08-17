@@ -1,14 +1,13 @@
 Kafka Basics:
 
 1. Download the Kafka Binary from below link.
-
-https://kafka.apache.org/downloads
+        https://kafka.apache.org/downloads
 
 2. Untar the files
-tar -xzf kafka_*.tgz
+       {code}tar -xzf kafka_*.tgz {code}
 
 3. Go to the Bin folder
-cd ~/kafka_*/bin
+      cd ~/kafka_*/bin
 
 4. Start the zookeeper
 ./zookeeper-server-start.sh ../config/zookeeper.properties &
