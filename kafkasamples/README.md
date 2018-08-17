@@ -1,6 +1,7 @@
 Kafka Basics:
 
 1. Download the Kafka Binary from below link.
+
 https://kafka.apache.org/downloads
 
 2. Untar the files
