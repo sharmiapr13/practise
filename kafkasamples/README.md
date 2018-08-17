@@ -1,4 +1,4 @@
-Kafka Basics:
+<B><I>Getting Started:</I></B>
 
 1. Download the Kafka Binary from below link.
 
